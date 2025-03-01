@@ -1,5 +1,5 @@
 # HASHGRAM - Fake Meets Check
-![image](https://github.com/user-attachments/assets/dae92b6f-e3a6-456b-a594-5f4ebabcc060)
+<img src="https://github.com/user-attachments/assets/dae92b6f-e3a6-456b-a594-5f4ebabcc060" width="300" alt="logo image">
 
 ## Project Goal:
 The goal is to verify the authenticity of user-generated content using Multi-Modal AI detection (images, videos) and to aware online users malicious manipulation or plagiarism
@@ -13,10 +13,10 @@ The goal is to verify the authenticity of user-generated content using Multi-Mod
 - Coming to the main utility (create a post) page, __you can choose to upload a form of media__, and HashGram will undergo SHA-256 Hashing, deepfake detection, and then ultimately deep learning (ResNet50) to detect deepfake/unoriginal content. In the case of images also, you can check whether its original or not.
 - But do you users know the best part? ALL OF THIS HAPPENS IN AN INSTANT: Our software gives you the __labels__ in the form of frames of colors: yellow and red, to see whether it is __deepfake__ or __copied/edited with the link to the video option__
 
-![image](https://github.com/user-attachments/assets/e070ac28-3853-4861-a88e-b3ba3e49d647)
-![image](https://github.com/user-attachments/assets/0b91205a-fa94-4979-8483-b760e6c00c18)
-![image](https://github.com/user-attachments/assets/3164354b-0b7d-422a-bc4a-fe153c315a58)
-<img width="657" alt="image" src="https://github.com/user-attachments/assets/5a6c683f-6181-420d-90b7-fdd7bbd44e63" />
+<img src="https://github.com/user-attachments/assets/e070ac28-3853-4861-a88e-b3ba3e49d647" width="200">
+<img src='https://github.com/user-attachments/assets/0b91205a-fa94-4979-8483-b760e6c00c18' width='200'>
+<img src='https://github.com/user-attachments/assets/3164354b-0b7d-422a-bc4a-fe153c315a58' width='300'>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5a6c683f-6181-420d-90b7-fdd7bbd44e63" />
 
 
 ### Additional Notes
