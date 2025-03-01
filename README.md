@@ -16,7 +16,7 @@ The goal is to verify the authenticity of user-generated content using Multi-Mod
 <img src="https://github.com/user-attachments/assets/e070ac28-3853-4861-a88e-b3ba3e49d647" width="400">
 <img src='https://github.com/user-attachments/assets/0b91205a-fa94-4979-8483-b760e6c00c18' width='400'>
 <img src='https://github.com/user-attachments/assets/3164354b-0b7d-422a-bc4a-fe153c315a58' width='500'>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/5a6c683f-6181-420d-90b7-fdd7bbd44e63" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/688d0002-d480-4faa-91e4-1072b8abbeb3" />
 
 ### Additional Notes -
 - firebase-login contains the frontend code of our social media clone web app.
