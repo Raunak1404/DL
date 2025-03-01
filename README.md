@@ -13,11 +13,10 @@ The goal is to verify the authenticity of user-generated content using Multi-Mod
 - Coming to the main utility (create a post) page, __you can choose to upload a form of media__, and HashGram will undergo SHA-256 Hashing, deepfake detection, and then ultimately deep learning (ResNet50) to detect deepfake/unoriginal content. In the case of images also, you can check whether its original or not.
 - But do you users know the best part? ALL OF THIS HAPPENS IN AN INSTANT: Our software gives you the __labels__ in the form of frames of colors: yellow and red, to see whether it is __deepfake__ or __copied/edited with the link to the video option__
 
-_AI model working_
 <img src="https://github.com/user-attachments/assets/e070ac28-3853-4861-a88e-b3ba3e49d647" width="400">
 <img src='https://github.com/user-attachments/assets/0b91205a-fa94-4979-8483-b760e6c00c18' width='400'>
 
-_Clone Web App UI_
+
 <img src='https://github.com/user-attachments/assets/3164354b-0b7d-422a-bc4a-fe153c315a58' width='500'>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/688d0002-d480-4faa-91e4-1072b8abbeb3" />
 
