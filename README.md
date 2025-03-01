@@ -7,14 +7,10 @@ The goal is to verify the authenticity of user-generated content using Multi-Mod
 - clone the repository to your system
 - redirect your command line tool/terminal to the firebase-login folder
 - enter 'npm start' in the command line tool/terminal
-- once you reach the HashGram website
-- sign up as a new user with your email address and user name with your preferred password
-- once you are in, CONGRATULATION! you will be able to use our social media as a simulation of how to detect deepfake images or videos or even get to know whther an arbitrary user has edited your video and has reposted this!!
-- Now, giving opportunnity to view everyones posts is one thing, but how about you check whether you are authentically uplaoding a rightful post?
-- Coming to the main utility page, you can choose to upload a form of media, and HashGram will undergo SHA-256 Hashing, deepfake detection, and then ultimately deep learning(ResNet50), in the case of videos.
-- In the case of images, DONT WORRY!, you can check whether its edited or not with just a click.
-- But do you users know the best part? ALL OF THIS HAPPENS IN AN INSTANT.
-- Giving you the labels in the form of frames of colors: yellow and red, to see whether its a fake, r
+- once you reach the HashGram website sign up as a new user with your email address, user name and your preferred password
+- once you are in, CONGRATULATIONS! you will be able to use our social media clone as a simulation to experience how our model detects deepfake videos or copied/edited video clips (+ giving you the link to the original video) that come on your feed!
+- Coming to the main utility (create a post) page, you can choose to upload a form of media, and HashGram will undergo SHA-256 Hashing, deepfake detection, and then ultimately deep learning (ResNet50) to detect deepfake/unoriginal content. In the case of images also, you can check whether its original or not.
+- But do you users know the best part? ALL OF THIS HAPPENS IN AN INSTANT: Our software gives you the labels in the form of frames of colors: yellow and red, to see whether its a fake, r
 - Bringing a real time interface, supported by a self-made, and self-compiled AI model to 
 
 ### Dictionary -
