@@ -4,7 +4,38 @@
 ## Project Goal:
 The goal is to verify the authenticity of user-generated content using Multi-Modal AI detection (images, videos) and to aware online users malicious manipulation or plagiarism
 
-### To run the code - 
+## Setting Up the Virtual Environment
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/your-repo.git
+    cd your-repo
+    ```
+
+2. Create a virtual environment:
+    ```bash
+    python3 -m venv venv
+    ```
+
+3. Activate the virtual environment:
+    - On macOS/Linux:
+        ```bash
+        source venv/bin/activate
+        ```
+    - On Windows:
+        ```bash
+        venv\Scripts\activate
+        ```
+
+4. Install dependencies from `requirements.txt`:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+Now you're all set up to work with the project!
+
+
+### To start the project - 
 - clone the repository to your system
 - direct your command line tool/terminal to the __firebase-login folder__
 - enter __'npm start'__ in the command line tool/terminal
@@ -25,4 +56,8 @@ The goal is to verify the authenticity of user-generated content using Multi-Mod
 ### Additional Notes -
 - firebase-login contains the frontend code of our social media clone web app.
 - youtube_videos_dataset - Sheet1.csv is a dataset created by us with 99 data values. It is used to train our ResNet50 model to find the original links of clipped/edited videos uploaded on social media.
+
+#### Link to our google slides:
+https://docs.google.com/presentation/d/1df9ASV2-7qzF7RhelTqc03VDmb7xYNoG2BvvoBnpiFw/edit?usp=sharing
+
 
