@@ -4,7 +4,7 @@
 ## Project Goal:
 The goal is to verify the authenticity of user-generated content using Multi-Modal AI detection (images, videos) and to aware online users malicious manipulation or plagiarism
 
-## Setting Up the Virtual Environment
+### Setting Up the Virtual Environment
 
 1. Clone the repository:
     ```bash
@@ -26,12 +26,6 @@ The goal is to verify the authenticity of user-generated content using Multi-Mod
         ```bash
         venv\Scripts\activate
         ```
-
-4. Install dependencies from `requirements.txt`:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 Now you're all set up to work with the project!
 
 
