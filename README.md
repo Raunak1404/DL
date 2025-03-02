@@ -31,6 +31,8 @@ Now you're all set up to work with the project!
 
 ### To start the project - 
 - clone the repository to your system
+- __download the firebase-login folder__ from here: https://drive.google.com/file/d/1lxr8XdhMuQwvhFDE_4_wVX-kSeYtNEH6/view?usp=sharing
+  -------------------------**MAKE SURE TO DOWNLOAD BEFORE PROCEEDING WITH THE STEPS BELOW**----------------------------------------
 - direct your command line tool/terminal to the __firebase-login folder__
 - enter __'npm start'__ in the command line tool/terminal
 - once you reach the HashGram website __sign up__ as a new user with your email address, user name and your preferred password
